@@ -54,7 +54,7 @@ This project demonstrates core Python concepts like `input()`, `if/elif/else` co
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/quiz_game_beginner_project.git
+git clone https://github.com/rajneeshkaur19/quiz_game_beginner_project.git
 ```
 
 **2. Navigate to the project folder**
@@ -64,7 +64,7 @@ cd quiz_game_beginner_project
 
 **3. Run the quiz**
 ```bash
-python quiz_game.py
+python quiz_game_beginner_project.py
 ```
 
 That's it — no virtual environments or installations needed!
